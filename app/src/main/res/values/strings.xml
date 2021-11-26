@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string-array name="search_groups">
+        <item>Anime</item>
+        <item>Manga</item>
+        <item>Character</item>
+        <item>Person</item>
+
+    </string-array>
+
+</resources>
